@@ -1,0 +1,10 @@
+skill-creator
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+*.skill
