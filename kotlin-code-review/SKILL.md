@@ -1,6 +1,6 @@
 ---
 name: kotlin-code-review
-description: 基于项目 kotlin-standard 规范对 Kotlin 代码进行全面审查，涵盖变量、类型、类与对象、数据类、集合、函数、泛型、协程、元编程等方面，结合代码上下文提供详细的改进建议。触发词：kotlin代码审查、审查kotlin代码、检查kotlin代码、kotlin code review、review kotlin code
+description: 基于腾讯 Kotlin 代码规范对 Kotlin 代码进行全面审查，涵盖变量、类型、类与对象、数据类、集合、函数、泛型、协程、元编程等方面，结合代码上下文提供详细的改进建议。触发词：kotlin代码审查、审查kotlin代码、检查kotlin代码、kotlin code review、review kotlin code
 ---
 
 # Kotlin 代码审查
